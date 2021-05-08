@@ -1,0 +1,31 @@
+td{
+
+font-size: 23px;
+
+font-family: monospace;
+
+}
+
+input{
+
+    border-radius: 5px;
+    font-family: monospace;
+    margin-top: 10px;
+}
+
+.container{
+
+width: 275px;
+height: 130px;
+background-color: rgb(117, 105, 128);
+}
+
+#sonuc{
+width: 450px;
+height: 125px;
+position: absolute;
+font-size: 1rem;
+color: cadetblue;
+font-family: monospace;
+}
+
